@@ -6,3 +6,8 @@ The objective of the dataset is to diagnostically predict whether or not a patie
 # DataSet
 
 The datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
+
+# Alogrthems
+We used 2 algorthims in this project
+1. Random Forest Classifier
+2. Deep learning
