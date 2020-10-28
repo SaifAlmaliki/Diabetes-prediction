@@ -11,3 +11,7 @@ The datasets consists of several medical predictor variables and one target vari
 We used 2 algorithm in this project
 1. Random Forest Classifier
 2. Deep learning
+
+source: https://www.kaggle.com/uciml/pima-indians-diabetes-database
+
+tutorial: https://www.youtube.com/watch?v=RaN8tyledJ4
